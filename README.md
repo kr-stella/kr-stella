@@ -4,11 +4,16 @@
 <!-- Header Typing Text -->
 [![Typing](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=48&duration=4000&pause=500&color=2189FF&center=true&vCenter=true&random=true&width=1024&height=72&lines=Welcome+to+Sumin's+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
----
+<!-- --- -->
+
 <div align="center">
 <details>
 
-<summary><h2>About Me</h2></summary>
+<summary>
+    <h3>
+        <b>About Me</b>
+    </h3>
+</summary>
 
 <div align="left">
 
@@ -83,13 +88,15 @@
 <a href="mailto:suvely_21@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </a><br/>
-<br/>
 
 </div>
 
 </details>
-
 </div>
+
+<br/>
+
+<!-- --- -->
 
 [![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkr-st2lla&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
