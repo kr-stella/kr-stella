@@ -18,5 +18,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=kr-st2lla&show_icons=true&theme=radical" />
-https://github-readme-stats.vercel.app/api?username=kr-st2lla&show_icons=true&theme=radical
-<a href="https://github-readme-stats.vercel.app/api?username=kr-st2lla&show_icons=true&theme=radical" />
