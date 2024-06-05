@@ -8,4 +8,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkr-st2lla&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr-st2lla&theme=radical&hide_border=true&count_private=true)](https://github.com/kr-st2lla/github-readme-stats)
+[![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr-st2lla&theme=radical&hide_border=true&count_private=true)](https://github.com/kr-st2lla?tab=repositories)
