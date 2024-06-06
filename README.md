@@ -10,9 +10,7 @@
 <details>
 
 <summary>
-    <h3>
-        <b>About Me</b>
-    </h3>
+    <b>About Me</b>
 </summary>
 
 <div align="left">
