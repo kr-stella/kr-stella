@@ -21,7 +21,7 @@
 - G-SMATT GLOBAL ( 2017.08 ~ 2019.02 )
 > Relocated to a separate but affiliated company due to organizational restructuring.
 
-- Captivision Korea INC. ( 2019.02 ~ Now )
+- Captivision Korea Inc. ( 2019.02 ~ Now )
 
 <br/>
 
